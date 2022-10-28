@@ -5,3 +5,5 @@ this is my first text file.
 
 going after first commit.
 
+git diff
+
